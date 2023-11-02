@@ -6,10 +6,13 @@ Small modifications were made and changes to make the code TypeScript compatible
 
 Give it a try!
 
-`git clone https://github.com/princefishthrower/react-speech-recognition-example.git`
-`npm install`
-`npm run start`
+```
+git clone https://github.com/princefishthrower/react-speech-recognition-example.git
+cd react-speech-recognition-example
+npm install
+npm run start
+```
 
--> navigate to `localhost:3000`
+-> navigate to `localhost:3000` in a browser of your choice!
 
 
